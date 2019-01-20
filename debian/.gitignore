@@ -1,0 +1,7 @@
+*.debhelper
+*.substvars
+cadvisor
+debhelper-build-stamp
+files
+golang-github-google-cadvisor-dev
+tmp

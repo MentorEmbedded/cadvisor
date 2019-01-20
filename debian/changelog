@@ -1,0 +1,5 @@
+cadvisor (0.32.0+ind1) unstable; urgency=medium
+
+  * Initial packaging
+
+ -- Cedric Hombourger <cedric_hombourger@mentor.com>  Sun, 20 Jan 2019 09:03:03 +0000
